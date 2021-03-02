@@ -1,0 +1,5 @@
+﻿  Uic'ing mainwindow.ui...
+  mainwindow.cpp
+C:\Users\Thomas\Desktop\IN204\CBR\app\mainwindow.cpp(60,24): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Thomas\Desktop\IN204\CBR\app\mainwindow.cpp(118,52): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+  ensta-cbr.vcxproj -> C:\Users\Thomas\Desktop\IN204\CBR\app\debug\ensta-cbr.exe

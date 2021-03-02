@@ -1,0 +1,2 @@
+C:\Users\Thomas\Desktop\IN204\CBR\app\debug\ensta-cbr.exe
+C:\Users\Thomas\Desktop\IN204\CBR\app\debug\ensta-cbr.pdb
