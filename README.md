@@ -1,6 +1,6 @@
 # Comic Book Reader
 
-  ![CBR](CBR1.png)
+  ![CBR](CBR1.PNG)
 
 
 
@@ -9,7 +9,7 @@ In fact this application was made in order to open easily .cbr and .cbz comic bo
 
 To see all of the functions available on this app, pls refer to the following diagram : 
 
-  ![CBR](CBR2.png)
+  ![CBR](CBR2.PNG)
 
 
 To sum up, with this app you can : 
@@ -21,7 +21,7 @@ To sum up, with this app you can :
 * You can create your own comic book by selecting differents image
 
 
-  ![CBR](CBR3.png)
+  ![CBR](CBR3.PNG)
 
 
 This app was made in C++ with Qt and zlib.
